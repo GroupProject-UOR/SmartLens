@@ -1,0 +1,17 @@
+# .NET build files
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+*.user
+
+# Development secrets
+**/appsettings.Development.json
+
+# Environment files
+.env
+.env.*
+
+# Node.js
+**/node_modules/
